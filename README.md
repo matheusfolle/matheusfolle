@@ -1,40 +1,44 @@
-<h1 align="center">Olá 👋</h1>
+<h1 align="center">Olá, eu sou o Matheus Folle 👋</h1>
 
 <p align="center">
-  Desenvolvedor em formação | Apaixonado por web design & front-end 🎨 <br>
-  Estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo
+  🎨 Apaixonado por design, código e tudo que é feito com propósito <br>
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo
 </p>
 
 ---
 
-### 💻 Tecnologias que uso
-<div style="display: flex; gap: 10px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
+### 🚀 Tecnologias com que já trabalhei
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+</p>
 
 ---
 
-### 📂 Projetos em destaque
+### 🧠 Projetos em foco
 
-| Projeto        | Linguagem | Descrição |
-|---------------|-----------|-----------|
-| [WebCraft](https://github.com/matheusfolle/webcraft) | HTML/CSS | Desafios práticos de front-end |
-| [Final Project](https://github.com/matheusfolle/final-project) | Java | Sistema para gerenciamento acadêmico |
-| [API Veículos](https://github.com/matheusfolle/api-veiculos) | C# | API para cadastro de veículos |
+| Projeto | Descrição |
+|--------|-----------|
+| [WebCraft](https://github.com/matheusfolle/webcraft) | Meu laboratório criativo em front-end (HTML, CSS, JS) |
+| [University ADS](https://github.com/matheusfolle/university_ads) | Projetos acadêmicos organizados em um só lugar |
 
 ---
 
-### 📫 Onde me encontrar
-- 💌 mathfolle@icloud.com
-- 🌍 Curitiba, Paraná, Brasil
-- 🌐 [linkedin.com/in/matheusfolle](https://linkedin.com/in/matheusfolle)
+### 🌱 Sobre mim
+
+<p align="center">
+  Estou construindo minha jornada aos poucos — aprendendo todos os dias e buscando unir <strong>tecnologia, criatividade e propósito</strong>. <br>
+  Sonho em trabalhar com algo que me permita <em>expressar ideias e conectar pessoas</em>.
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusfolle&show_icons=true&theme=dracula" />
+  <a href="https://linkedin.com/in/matheusfolle">🔗 Linkedin</a> 
 </p>
