@@ -25,7 +25,7 @@
 
 | Projeto | Descrição |
 |--------|-----------|
-| [WebCraft](https://github.com/matheusfolle/webcraft) | Meu laboratório criativo em front-end (HTML, CSS, JS) |
+| [WebCraft](https://github.com/matheusfolle/webcraft) | Meu laboratório criativo em front-end |
 | [University ADS](https://github.com/matheusfolle/university_ads) | Projetos acadêmicos organizados em um só lugar |
 
 ---
