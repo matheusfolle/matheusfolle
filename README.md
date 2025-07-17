@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Matheus Folle 👋</h1>
+<h1 align="center">Hello, I'm Matheus Folle 👋</h1>
 
 <p align="center">
   🎨 Apaixonado por design, código e tudo que é feito com propósito <br>
@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Tecnologias com que já trabalhei
+<h3 align="center">Tecnologias com que já trabalhei</h3
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -21,7 +21,7 @@
 
 ---
 
-### 🧠 Projetos em foco
+<h3 align="center">🧠 Projetos em foco</h3>
 
 | Projeto | Descrição |
 |--------|-----------|
@@ -30,7 +30,7 @@
 
 ---
 
-### 🌱 Sobre mim
+<h3 align="center">🌱 Sobre mim</h3>
 
 <p align="center">
   Estou construindo minha jornada aos poucos — aprendendo todos os dias e buscando unir <strong>tecnologia, criatividade e propósito</strong>. <br>
