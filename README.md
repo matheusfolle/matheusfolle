@@ -1,6 +1,6 @@
 <h1 align="center">matheus folle 🔭</h1>
 
-<p align="center"><em>código, design & propósito</em> ⟡</p>
+<p align="center">⟡</p>
 
 ---
 
