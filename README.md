@@ -20,5 +20,4 @@
 
 ### ❍ contato
 
-📎 [linkedin.com/in/matheusfolle](https://linkedin.com/in/matheusfolle)  
 🖋 [mathfolle@icloud.com](mailto:mathfolle@icloud.com)
