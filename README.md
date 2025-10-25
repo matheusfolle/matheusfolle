@@ -19,7 +19,7 @@ class SoftwareEngineer:
         self.language_spoken = ["pt_BR", "en_US"]
 
     def say_hi(self):
-        print("Obrigado por visitar! Espero que goste dos meus projetos.")
+        print("Que meus projetos falem por mim!")
 
 
 me = SoftwareEngineer()
