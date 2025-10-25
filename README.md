@@ -1,23 +1,34 @@
-<h1 align="center">matheus folle 🔭</h1>
+<h1 align="center">wassup everyone 🔭</h1>
 
 <p align="center">⟡</p>
 
 ---
 
-### ❍ sobre
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=matheusfolle.matheusfolle&left_color=blue&right_color=black)
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Matheus Folle"
+        self.role = "FullStack & Data Scientist"
+        self.language_spoken = ["pt_BR", "en_US"]
+
+    def say_hi(self):
+        print("Obrigado por visitar! Espero que goste dos meus projetos.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+<br>```
+---
+### about
 
 ⤷ estudante de análise e desenvolvimento de sistemas  
-⤷ apaixonado por web, estética e ideias com sentido  
+⤷ apaixonado por web e estética. gosto de dar sentido à ideias
 
 ---
-
-### ❍ projetos
-
-- [webcraft](https://github.com/matheusfolle/webcraft) ⤷ laboratório
-- [university_ads](https://github.com/matheusfolle/university_ads) ⤷ projetos da faculdade
-
----
-
-### ❍ contato
-
-🖋 [mathfolle@icloud.com](mailto:mathfolle@icloud.com)
