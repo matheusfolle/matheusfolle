@@ -1,4 +1,4 @@
-<h1 align="center">wassup everyone 🔭</h1>
+<h1 align="center">greetings, explorer 🔭</h1>
 
 <p align="center">⟡</p>
 
@@ -16,10 +16,13 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Matheus Folle"
         self.role = "FullStack & Data Scientist"
-        self.language_spoken = ["pt_BR", "en_US"]
+        self.languages_spoken = ["pt_BR", "en_US"]
 
     def say_hi(self):
-        print("Que meus projetos falem por mim!")
+        print("I hope you have a great conversation with my projects 😬")
+
+    def __repr__(self):
+        return f"{self.name}, {self.role}"
 
 
 me = SoftwareEngineer()
