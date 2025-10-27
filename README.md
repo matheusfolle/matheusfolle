@@ -32,5 +32,5 @@ me.say_hi()
 ### about
 
 ⤷ estudante de análise e desenvolvimento de sistemas  
-⤷ apaixonado por web e estética. gosto de dar sentido à ideias
+⤷ apaixonado por web e estética – gosto de dar sentido à ideias
 
