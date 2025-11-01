@@ -1,5 +1,4 @@
 <h1 align="center">greetings, explorer 🔭</h1>
-
 <p align="center">⟡</p>
 
 ---
@@ -10,27 +9,54 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
-class SoftwareEngineer:
-
+class DataScience:
     def __init__(self):
         self.name = "Matheus Folle"
-        self.role = "FullStack & Data Scientist"
+        self.role = "Data Scientist"
+        self.focus = "Machine Learning & Analytics"
         self.languages_spoken = ["pt_BR", "en_US"]
-
+    
     def say_hi(self):
-        print("I hope you have a great conversation with my projects 😬")
+        print("Turning complex data into simple decisions 😉")
 
-    def __repr__(self):
-        return f"{self.name}, {self.role}"
-
-
-me = SoftwareEngineer()
+me = DataScience()
 me.say_hi()
 ```
+
 ---
-### about
+
+## about
 
 ⤷ estudante de análise e desenvolvimento de sistemas  
-⤷ apaixonado por web e estética – gosto de dar sentido à ideias
+⤷ apaixonado por dados através do design – criando visualizações elegantes que geram insights e orientam decisões
 
+---
+
+## tech stack
+
+**languages:**  
+`Python` `SQL` `PHP` `JavaScript` `C` `C#` `Java` `PHP` `R`
+
+**machine learning & data:**  
+`scikit-learn` `pandas` `numpy` `TensorFlow` `PyTorch`
+
+**visualization:**  
+`matplotlib` `seaborn` `plotly` `Power BI` `Tableau` `D3.js`
+
+**web & frameworks:**  
+`React` `Node.js` `Flask` `FastAPI`
+
+**dev & tools:**  
+`Git` `Docker` `Jupyter` `VS Code` `AWS`
+
+---
+
+## 📊 github stats
+
+<div align="center">
+  
+![Stats](https://github-readme-stats.vercel.app/api?username=matheusfolle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=matheusfolle&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
