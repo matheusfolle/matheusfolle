@@ -32,16 +32,6 @@ me.say_hi()
 
 ---
 
-## tech stack
-
-**análise & ML:** Python · SQL · TensorFlow · PyTorch · Scikit-learn  
-**visualização:** Power BI · Tableau · Plotly · Matplotlib · D3.js  
-**desenvolvimento:** React · JavaScript · Docker · Git · AWS
-
-<sub>*tecnologias completas visíveis nos repositórios*</sub>
-
----
-
 <p align="center">
   <sub>"The greatest value of a picture is when it forces us to notice what we never expected to see." — John Tukey</sub>
 </p>
