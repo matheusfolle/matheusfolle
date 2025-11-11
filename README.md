@@ -17,7 +17,7 @@ class ComputerScientist:
         self.languages_spoken = ["pt_BR", "en_US"]
     
     def say_hi(self):
-        print("Turning complex data into simple decisions 😉")
+        print("Turning complex data into simple decisions")
 
 me = ComputerScientist()
 me.say_hi()
@@ -27,8 +27,7 @@ me.say_hi()
 
 ## about
 
-⤷ estudante de análise e desenvolvimento de sistemas  
-⤷ apaixonado por dados através do design – criando visualizações elegantes que geram insights e orientam decisões
+⤷ estudante de análise e desenvolvimento de sistemas
 
 ---
 
