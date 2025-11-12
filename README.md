@@ -13,11 +13,11 @@ class ComputerScientist:
     def __init__(self):
         self.name = "Matheus Folle"
         self.specialization = "Data Science"
-        self.focus = "Machine Learning & Analytics"
+        self.focus = "Machine Learning"
         self.languages_spoken = ["pt_BR", "en_US"]
     
     def say_hi(self):
-        print("Turning complex data into simple decisions")
+        print("Tornando dados complexos em simples escolhas")
 
 me = ComputerScientist()
 me.say_hi()
@@ -28,6 +28,7 @@ me.say_hi()
 ## about
 
 ⤷ estudante de análise e desenvolvimento de sistemas
+⤷ viva para ser feliz e não viva em vão
 
 ---
 
