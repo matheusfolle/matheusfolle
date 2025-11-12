@@ -27,7 +27,7 @@ me.say_hi()
 
 ## about
 
-⤷ estudante de análise e desenvolvimento de sistemas
+⤷ estudante de análise e desenvolvimento de sistemas\
 ⤷ viva para ser feliz e não viva em vão
 
 ---
