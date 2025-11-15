@@ -17,7 +17,7 @@ def vida():
             analisar_dados()
             café.tomar()
         else:
-            procrastinar()
+            # procrastinar() # deprecated
 ```
 
 ---
