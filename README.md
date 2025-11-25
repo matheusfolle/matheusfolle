@@ -1,5 +1,5 @@
 <h1 align="center">olá 👋</h1>
-<p align="center"><b>matheus folle</b> — ads student</p>
+<p align="center"><b>matheus folle</b> — estudante de ads</p>
 <p align="center">foco em data science & machine learning</p>
 
 ---
