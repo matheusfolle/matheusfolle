@@ -15,6 +15,7 @@ Quando não tô debugando, provavelmente tô:
 ```python
 def aprendizado_continuo():
     while True:
+        cafezinho()
         estudar(['python', 'sql', 'estatística'])
         aplicar_em_projetos()
         evoluir()
