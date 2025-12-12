@@ -1,4 +1,4 @@
-<h1 align="center">Olá, pode me chamar de Folle 👋</h1>
+<h2 align="center">Olá, pode me chamar de Folle 👋</h2>
 
 <p align="center">
   <b>Estudante de Análise e Desenvolvimento de Sistemas</b><br>
@@ -7,13 +7,13 @@
 
 ---
 
-## Sobre
+#### About
 
 Desenvolvendo competências em análise de dados e machine learning. Foco em Python, SQL e construção de projetos que resolvem problemas reais.
 
 **Objetivo:** Data Analyst/Scientist → Tech Lead
 
-## Stack Atual
+#### Stack Atual
 
 **Linguagens:** Python, SQL, Java, JavaScript, C, C#, Kotlin, PHP  
 **Análise:** Pandas, NumPy, Scikit-learn  
