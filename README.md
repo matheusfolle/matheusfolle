@@ -1,25 +1,13 @@
-<h2 align="center">Olá, pode me chamar de Folle 👋</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=600&letterSpacing=0.1rem&pause=1000&color=9BCFF7&background=4178D800&width=700&height=70&lines=Ol%C3%A1!+Pode+me+chamar+de+Folle;Sou+estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;E+estou+transicionando+para+Ci%C3%AAncia+de+Dados!)](https://git.io/typing-svg)
 
-<p align="center">
-  <b>Estudante de Análise e Desenvolvimento de Sistemas</b><br>
-  Transição para Ciência de Dados
-</p>
-
+<p align="center">Desenvolvendo competências em análise de dados e machine learning. Foco em Python, SQL e construção de projetos que resolvem problemas reais.</p>
 ---
+Quando não tô debugando, provavelmente tô:
+- Pedalando 🚴
+- Puxando ferro 💪
+- Errando gol ⚽
+- Ou fingindo que entendo de estatística (spoiler: eu entendo)
 
-#### About
-
-Desenvolvendo competências em análise de dados e machine learning. Foco em Python, SQL e construção de projetos que resolvem problemas reais.
-
-**Objetivo:** Data Analyst/Scientist → Tech Lead
-
-#### Stack Atual
-
-**Linguagens:** Python, SQL, Java, JavaScript, C, C#, Kotlin, PHP  
-**Análise:** Pandas, NumPy, Scikit-learn  
-**Ferramentas:** Git, Jupyter, VS Code
-
----
 ```python
 def aprendizado_continuo():
     while True:
@@ -29,14 +17,5 @@ def aprendizado_continuo():
         # procrastinar() # deprecated
 ```
 
-<p align="center">
-  Quando não tô no código: pedalando 🚴, treinando 💪, ou tentando não errar gol ⚽
-</p>
-
 ---
-
-<p align="center">
-  <a href="https://github.com/matheusfolle">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=matheusfolle.matheusfolle&left_color=blue&right_color=black" alt="visitors">
-  </a>
-</p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=matheusfolle.matheusfolle&left_color=blue&right_color=black)
